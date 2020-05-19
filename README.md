@@ -1,2 +1,2 @@
 # Patient
-Patient Backend w/ Java Application GUI and Web Application using Servelt
+Patient Backend w/ Java Application GUI and Web Application using Servlet
